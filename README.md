@@ -24,6 +24,14 @@ npx tsc --init
 - NPM : Pour la gestion des paquets et l'installation des dépendances.
 - TypeScript
 
+## Utilisation avec Postman
+Pour tester l'API ApiWeather, nous recommandons d'utiliser Postman, un outil  pour tester des API web.
+
+- Téléchargez et installez Postman depuis le site officiel : Télécharger [Postman](https://www.postman.com/downloads/).
+- Ouvrez Postman et créez une nouvelle requête.
+- Configurez la requête avec l'URL de l'API, sélectionnez la méthode appropriée (GET, POST, etc.) et ajoutez les paramètres nécessaires.
+- Envoyez la requête et visualisez la réponse.
+
 ## Comment Utiliser
 Utilisez Postman pour envoyer des requêtes à l'API configurée via Express. Lancez le serveur avec ts-node et faites des requêtes pour obtenir des données météo.
 
