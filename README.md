@@ -13,7 +13,8 @@ ApiWeather est un projet simplifié qui utilise Express et Axios pour interroger
 1. Clonez le dépôt : ` git clone https://github.com/LulDrako/ApiWeather`
 2. Installez les dependencies : `npm install`
 ```bash
-npm install express axios
+npm install express
+npm i axios
 npm install --save-dev typescript ts-node
 npx tsc --init
 ```
