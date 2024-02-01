@@ -10,8 +10,8 @@ ApiWeather est un projet simplifié qui utilise Express et Axios pour interroger
 - ts-Node pour exécuter des scripts TypeScript directement sans compilation préalable
 
 ## Instruction d'installation
-1. Clonez le dépôt : ` git clone https://github.com/LulDrako/ApiWeather`
-2. Installez les dependencies : `npm install`
+1. Clonez le dépôt : `git clone https://github.com/LulDrako/ApiWeather`
+2. Installez les dependencies `npm install`
 ```bash
 npm install express
 npm i axios
